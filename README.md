@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+[![RosaAtCoding's github stats](https://github-readme-mwendwa.vercel.app/api?username=rosaatcoding&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=rosaatcoding&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![RosaAtCoding's current streak](https://streak-stats.demolab.com/?user=rosaatcoding&count_private=true&theme=blue-green&title_color=00b3ff)](#)
